@@ -1,2 +1,2 @@
-# It is only code, so U can change it (*__*)
-# And U need PyCharm to launch it (^_^)
+# It is only code, so U can change it
+# And U need PyCharm to launch it
